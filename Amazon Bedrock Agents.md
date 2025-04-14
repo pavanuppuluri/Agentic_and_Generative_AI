@@ -9,3 +9,8 @@
 **Amazon Bedrock Agents - ReAct Orchestration Style**
 
 <img width="1060" alt="image" src="https://github.com/user-attachments/assets/71083d81-4c05-4269-a015-93ad5181d255" />
+
+<br><br>
+- Orchestrator refers to internal code
+- ReAct – Orchestrator style or prompt style - Defines the plan and then modify as we go (but Sequential in nature)
+
