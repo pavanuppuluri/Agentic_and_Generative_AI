@@ -1,5 +1,7 @@
 # 🧠 Understanding AI, ML, DL, and GenAI
 
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/7f01f4bd-f817-4ba6-b117-1845befb1180" />
+
 ## ✅ 1. Artificial Intelligence (AI)
 
 **Definition:**  
@@ -58,4 +60,5 @@ GenAI refers to AI models, especially **large language models (LLMs)** or **gene
 - **ML** is like learning a task by trial and error.  
 - **DL** is like learning that task using advanced intuition and experience (like a brain's visual cortex).  
 - **GenAI** is like being creative—writing poems, painting pictures, or inventing stories.
+
 
