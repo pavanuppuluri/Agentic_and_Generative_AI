@@ -3,4 +3,7 @@
 - [GenAI Terminology](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Gen%20AI%20Terminology.md)
 - [GenAI Usecases](https://github.com/pavanuppuluri/Agentic-AI/blob/master/GenAI_Usecases.md)
 - [AWS GenAI Service Offerings](https://github.com/pavanuppuluri/Agentic-AI/blob/master/AWS_GenAI_Service_Offerings.md)
+- [Amazon Bedrock](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Amazon_Bedrock.md)
+
+
 
