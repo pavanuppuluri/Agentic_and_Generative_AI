@@ -1,6 +1,7 @@
 # 🧠 Understanding AI, ML, DL, and GenAI
 
-<img width="754" alt="image" src="https://github.com/user-attachments/assets/7f01f4bd-f817-4ba6-b117-1845befb1180" />
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/bfa2f486-37e4-4293-ac1d-8118ce9b4e6f" />
+
 
 ## ✅ 1. Artificial Intelligence (AI)
 
