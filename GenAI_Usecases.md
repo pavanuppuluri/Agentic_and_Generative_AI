@@ -1,3 +1,6 @@
 # GenAI usecases
 
-<img width="1392" alt="image" src="https://github.com/user-attachments/assets/298ed91d-204e-4605-8002-c351b730114f" />
+<img width="1010" alt="image" src="https://github.com/user-attachments/assets/958e7d77-35dd-4d68-882f-e881f89aa428" />
+
+
+
