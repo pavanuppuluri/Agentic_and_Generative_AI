@@ -34,6 +34,9 @@
 | **Flexibility**     | Text-based tasks              | General-purpose, adaptable               |
 | **Examples**        | GPT-3, BERT, LLaMA            | GPT-4, Gemini, Claude, Grok              |
 
+<img width="1190" alt="image" src="https://github.com/user-attachments/assets/e185af0f-b80c-43a6-bac7-d2cb2aa198b4" />
+
+
 <img width="1205" alt="image" src="https://github.com/user-attachments/assets/7fa67fcf-b684-462b-8a4c-1c7545e1cba2" />
 
 
