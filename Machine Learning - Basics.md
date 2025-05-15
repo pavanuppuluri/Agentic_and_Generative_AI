@@ -91,7 +91,19 @@ Identify co-occurrence patterns or “if-then” rules.
 
 <img width="433" alt="image" src="https://github.com/user-attachments/assets/d72801b5-c966-4f97-9df1-2565153976f4" />
 
+## 🧠 What is Reinforcement Learning?
 
+- Reinforcement Learning (RL) is a type of machine learning where an agent learns by interacting with an environment and receiving rewards or penalties for its actions.
+- It’s inspired by behavioral psychology — learning from trial and error to maximize long-term reward.
+
+| 🧪 Scenario            | 🤖 Agent                 | 🌍 Environment          | 🎯 Reward Signal                |
+|------------------------|--------------------------|--------------------------|---------------------------------|
+| 🕹️ Game Playing AI     | Game bot (e.g., AlphaGo) | Game board               | Win (+1), Lose (-1)             |
+| 🚗 Self-Driving Car    | Car AI                   | Road, traffic            | Smooth driving, no crash        |
+| 🧭 Robotics            | Robot arm                | Physical workspace       | Success in grabbing object      |
+| 🛒 Dynamic Pricing     | Pricing algorithm        | Market conditions        | Revenue or profit               |
+
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/ad235c27-b792-4946-8f85-eb017375cd72" />
 
 
 
