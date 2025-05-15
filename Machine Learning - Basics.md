@@ -73,6 +73,9 @@ Find natural groupings or patterns in data.
 - 📷 Image Organization – Group similar photos (e.g., by faces or scenes)
 - 🌐 Website visitor grouping – Segment users by browsing activity
 
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/8a718176-4b20-4521-b0f3-74a60b0dd9c6" />
+
+
 ## ✅ Association Rule Learning (Unsupervised Learning)
 **Definition**:
 Association learning uncovers interesting relationships (rules) between items in large datasets.
@@ -86,6 +89,7 @@ Identify co-occurrence patterns or “if-then” rules.
 - 📚 Amazon Recommendations – "People who bought this also bought..."
 - 🍕 Menu Bundling – "Pizza and Coke often sold together."
 
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/d72801b5-c966-4f97-9df1-2565153976f4" />
 
 
 
