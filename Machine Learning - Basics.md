@@ -47,4 +47,56 @@ Given the square footage of a house, predict its price.
 | 🚗 Car Mileage Prediction   | Engine size, weight, horsepower          | Miles per gallon (MPG)         |
 
 
+## 🎯 What is Unupervised Learning in Machine Learning?
+
+- Unsupervised learning is a type of machine learning in which algorithm are trained using unlabeled dataset
+- Based on the dataset, model finds hidden patterns and insights based on the similarities of the data
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/a79e8532-be6a-4678-aec2-7ca03e655aec" />
+
+There are 2 Key Algorithms that are used in Unsupervised Learning.
+
+- Clustering
+- Association
+
+## ✅ Clustering (Unsupervised Learning)
+**Definition**:
+Clustering is a technique in unsupervised learning that groups similar data points together based on their features — without using labels.
+
+**Goal**:
+Find natural groupings or patterns in data.
+
+**Examples**:
+
+- 🧑‍🤝‍🧑 Customer Segmentation – Group users based on buying behavior
+- 🧑‍🤝‍🧑 Targeted Marketing - By segmenting users by shopping habits
+- 📷 Image Organization – Group similar photos (e.g., by faces or scenes)
+- 🌐 Website visitor grouping – Segment users by browsing activity
+
+## ✅ Association Rule Learning (Unsupervised Learning)
+**Definition**:
+Association learning uncovers interesting relationships (rules) between items in large datasets.
+
+**Goal**:
+Identify co-occurrence patterns or “if-then” rules.
+
+**Examples**:
+
+- 🛒 Market Basket Analysis – "If a customer buys bread, they're likely to buy butter."
+- 📚 Amazon Recommendations – "People who bought this also bought..."
+- 🍕 Menu Bundling – "Pizza and Coke often sold together."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
