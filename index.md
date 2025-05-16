@@ -5,6 +5,7 @@
 - [GenAI Usecases](https://github.com/pavanuppuluri/Agentic-AI/blob/master/GenAI_Usecases.md)
 - [AWS GenAI Service Offerings](https://github.com/pavanuppuluri/Agentic-AI/blob/master/AWS_GenAI_Service_Offerings.md)
 - [Amazon Bedrock](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Amazon_Bedrock.md)
+- [GenAI vs Agentic AI](https://github.com/pavanuppuluri/Agentic-AI/blob/master/GenAI%20vs%20AgenticAI.md)
 - [Agentic AI Usecases](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Agentic-AI-use-cases.md)
 - [Amazon Bedrock Agents](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Amazon%20Bedrock%20Agents.md)
 - [Custom Models](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Custom_Model.md)
