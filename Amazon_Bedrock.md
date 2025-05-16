@@ -24,3 +24,58 @@
 | **Guardrails**             | Define content filtering, tone, and sensitive topic controls to enforce safety. | You want to ensure responsible AI usage and policy compliance.              | Restrict a healthcare chatbot from discussing medical diagnoses or sensitive topics. |
 | **Bedrock Flows** *(preview)* | Visual tool to build multi-step workflows with branching logic and LLM actions.   | You need to orchestrate LLM + tools in a no-code/low-code environment.      | Create a loan pre-approval workflow using model calls + document processing steps.   |
 
+
+## AWS Bedrock Batch Inference
+
+### 🧪 What is Bedrock Batch Inference?
+
+**AWS Bedrock Batch Inference** allows you to run **large-scale asynchronous inference jobs** on a batch of inputs stored in Amazon S3. Instead of processing one input at a time in real-time, batch inference efficiently processes many inputs at once, making it ideal for high-throughput and cost-effective workloads.
+
+#### ⚙️ How It Works
+
+1. Prepare your input data (e.g., JSONL or CSV file with prompts) and upload it to Amazon S3.  
+2. Create a batch inference job in AWS Bedrock:  
+   - Select the foundation model (e.g., Claude, Titan, Jurassic)  
+   - Specify input and output S3 locations  
+3. AWS Bedrock asynchronously processes each input record and saves the results back to your S3 output bucket.
+
+
+#### ✅ Use Cases for Bedrock Batch Inference
+
+| **Category**             | **Use Case**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **Customer Support**     | Summarize thousands of past support tickets for insights or quality checks.  |
+| **Marketing**            | Generate personalized email templates or product descriptions at scale.     |
+| **HR / Resume Parsing**  | Analyze and extract skills from 10,000+ resumes to auto-rank candidates.     |
+| **Legal / Compliance**   | Extract and classify clauses from large sets of contracts.                   |
+| **Academic Research**    | Summarize or translate hundreds of research papers for further analysis.     |
+| **Product**              | Auto-generate user-friendly product descriptions for large catalogs.         |
+| **Healthcare**           | Normalize and summarize thousands of doctor’s notes or medical reports.     |
+| **IT / DevOps**          | Generate documentation for 1,000+ APIs from OpenAPI specs automatically.     |
+
+
+#### 🚀 Benefits
+
+- Cost-efficient for large jobs compared to real-time inference.  
+- Scales to millions of input records.  
+- Asynchronous processing lets you retrieve results once the job completes without waiting.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
