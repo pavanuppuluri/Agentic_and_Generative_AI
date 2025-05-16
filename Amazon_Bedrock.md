@@ -61,7 +61,24 @@
 - Asynchronous processing lets you retrieve results once the job completes without waiting.  
 
 
+# Amazon Bedrock - Architecture
 
+<img width="1062" alt="image" src="https://github.com/user-attachments/assets/318afb5f-2a89-4979-8f27-e451079b731a" />
+
+**Runtime Inference** : Used to redirect to right model endpoint based on the API request
+
+**Example.**
+```json
+body = json.dumps({
+    "prompt": user_prompt,
+    "temperature": 0.9,
+    "max_tokens": 400
+}),
+contentType = "application/json",
+accept = "*/*",
+modelId = 'cohere.command-text-v14'
+
+```
 
 
 
