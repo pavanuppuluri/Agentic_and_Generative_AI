@@ -7,6 +7,6 @@
 - [Amazon Bedrock](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Amazon_Bedrock.md)
 - [Agentic AI Usecases](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Agentic-AI-use-cases.md)
 - [Amazon Bedrock Agents](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Amazon%20Bedrock%20Agents.md)
-
+- [Custom Models](https://github.com/pavanuppuluri/Agentic-AI/blob/master/Custom_Model.md)
 
 
