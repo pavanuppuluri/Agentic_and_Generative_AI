@@ -2,6 +2,11 @@
 
 **RAG** is a technique that enhances the accuracy of language models by retrieving relevant external documents and injecting them into the generation process.
 
+Without RAG, 
+- Foundation models rely only on their pre-trained knowledge, which can lead to inaccurate, outdated, or generic responses
+- They cannot access organization-specific data (like internal policies, product docs, or customer history), and
+- More likely to hallucinate facts or miss critical context—especially in enterprise use cases.
+
 ## 🔁 RAG Workflow
 
 1. **User Query**
